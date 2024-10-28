@@ -1,6 +1,10 @@
 #include <iostream>
 using namespace std;
 
+
+// TASK 2 => SIMPLE CALCULATOR
+
+
 void displayMenu() {
     cout << "Simple Calculator\n";
     cout << "Choose an operation:\n";
